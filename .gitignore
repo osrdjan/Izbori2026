@@ -1,0 +1,25 @@
+# Regenerisani pregledi skenova i dijagrama.
+/obrada_2026/*.png
+
+# Radni snimci prethodnih stanja podataka.
+/obrada_2026/pre_dopune*.json
+
+# Lokalna kopija dijagrama.
+/election_plot_2026 - Copy*.png
+
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Lokalna okruženja i poverljiva podešavanja.
+.venv/
+venv/
+.env
+.env.*
+!.env.example

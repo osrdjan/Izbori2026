@@ -1,0 +1,892 @@
+[
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 1,
+    "voting_area": "Мокра Гора",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Мокра Гора, Котроманска 130",
+    "mapping_note": null,
+    "unique_id": "UZ-01",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 2,
+    "voting_area": "Мокра Гора",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА",
+    "polling_station_address": "Мокра Гора, Котроманска 143",
+    "mapping_note": null,
+    "unique_id": "UZ-02",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 3,
+    "voting_area": "Кремна",
+    "polling_station_name": "ЗГРАДА ЖЕЛЕЗНИЧКЕ СТАНИЦЕ ШАРГАН ВИТАСИ",
+    "polling_station_address": "Шарган-Витаси, Јанка Веселиновића 3",
+    "mapping_note": "Подручје обухвата Витасе и Кремну",
+    "unique_id": "UZ-03",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 4,
+    "voting_area": "Кремна",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Радуша, Проте Вукоја Цвијовића 17",
+    "mapping_note": "Измена одлуке за бирачко место 4",
+    "unique_id": "UZ-04",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 5,
+    "voting_area": "Стрмац & Радуша",
+    "polling_station_name": "ОСНОВНА ШКОЛА – САЛА",
+    "polling_station_address": "Радуша, Проте Вукоја Цвијовића 17",
+    "mapping_note": "Обухвата Стрмац и Радушу; избор из понуђених области",
+    "unique_id": "UZ-05",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 6,
+    "voting_area": "Биоска",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Биоска, Цара Душана 396",
+    "mapping_note": null,
+    "unique_id": "UZ-06",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 7,
+    "voting_area": "Врутци",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА",
+    "polling_station_address": "Врутци, Николе Тесле 1",
+    "mapping_note": null,
+    "unique_id": "UZ-07",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 8,
+    "voting_area": "Биоска",
+    "polling_station_name": "ОБЈЕКАТ АЛЕКСЕ НИКОВИЋА",
+    "polling_station_address": "Пеар, Милутина Бојића 5",
+    "mapping_note": "Пеар груписан под Биоску",
+    "unique_id": "UZ-08",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 9,
+    "voting_area": "Биоска",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Кесеровина, Цара Душана 274",
+    "mapping_note": "Кесеровина груписана под Биоску",
+    "unique_id": "UZ-09",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 10,
+    "voting_area": "Биоска",
+    "polling_station_name": "ОБЈЕКАТ МИРОЉУБА ЈАЊИЋА",
+    "polling_station_address": "Кесеровина, Ужичке републике 150",
+    "mapping_note": "Кесеровина груписана под Биоску",
+    "unique_id": "UZ-10",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 11,
+    "voting_area": "Стапари",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Стапари, Димитрија Туцовића 66",
+    "mapping_note": null,
+    "unique_id": "UZ-11",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 12,
+    "voting_area": "Стапари",
+    "polling_station_name": "ОБЈЕКАТ ЖЕЉКА РАФАИЛОВИЋА",
+    "polling_station_address": "Стапари, Долови 2",
+    "mapping_note": null,
+    "unique_id": "UZ-12",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 13,
+    "voting_area": "Волујац",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Волујац, Војводе Мишића 15",
+    "mapping_note": null,
+    "unique_id": "UZ-13",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 14,
+    "voting_area": "Волујац",
+    "polling_station_name": "ОБЈЕКАТ „КАДИЊАЧА“",
+    "polling_station_address": "Волујац, Волујачка 202",
+    "mapping_note": null,
+    "unique_id": "UZ-14",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 15,
+    "voting_area": "Буар",
+    "polling_station_name": "ОБЈЕКАТ МИЛОША ПАПИЋА",
+    "polling_station_address": "Буар, Јована Цвијића 7",
+    "mapping_note": null,
+    "unique_id": "UZ-15",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 16,
+    "voting_area": "Буар",
+    "polling_station_name": "МЕСНА КАНЦЕЛАРИЈА",
+    "polling_station_address": "Буар, Десанке Максимовић 9",
+    "mapping_note": null,
+    "unique_id": "UZ-16",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 17,
+    "voting_area": "Буар",
+    "polling_station_name": "КУЋА СТЕВА РАДОЈЕВИЋА",
+    "polling_station_address": "Буар, Теразије 198",
+    "mapping_note": null,
+    "unique_id": "UZ-17",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 18,
+    "voting_area": "Буар",
+    "polling_station_name": "ОБЈЕКАТ РАТКА ФИЛИПОВИЋА",
+    "polling_station_address": "Буар, Милоша Обреновића 13",
+    "mapping_note": null,
+    "unique_id": "UZ-18",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 19,
+    "voting_area": "Дубоко",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА ДУБОКО",
+    "polling_station_address": "Дубоко, Десанке Максимовић 9",
+    "mapping_note": null,
+    "unique_id": "UZ-19",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 20,
+    "voting_area": "Дубоко",
+    "polling_station_name": "ОБЈЕКАТ МИРКА СИМИЋА",
+    "polling_station_address": "Дубоко, Ужичке републике 1",
+    "mapping_note": null,
+    "unique_id": "UZ-20",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 21,
+    "voting_area": "Дубоко",
+    "polling_station_name": "ПРОДАВНИЦА ВЛАДАНА МИТРОВИЋА",
+    "polling_station_address": "Дубоко, Татинац 3",
+    "mapping_note": null,
+    "unique_id": "UZ-21",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 22,
+    "voting_area": "Гостиница",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Гостиница, Николаја Жичког 174",
+    "mapping_note": null,
+    "unique_id": "UZ-22",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 23,
+    "voting_area": "Гостиница",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА ГОСТИНИЦА",
+    "polling_station_address": "Гостиница, Др Рада Познановића 7",
+    "mapping_note": null,
+    "unique_id": "UZ-23",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 24,
+    "voting_area": "Рибашевина",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Рибашевина, Ужичка 65",
+    "mapping_note": null,
+    "unique_id": "UZ-24",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 25,
+    "voting_area": "Трнава",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Трнава, Патријарха Павла 1",
+    "mapping_note": null,
+    "unique_id": "UZ-25",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 26,
+    "voting_area": "Каран",
+    "polling_station_name": "ДОМ КУЛТУРЕ",
+    "polling_station_address": "Каран, Радничка 1",
+    "mapping_note": null,
+    "unique_id": "UZ-26",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 27,
+    "voting_area": "Луново Село",
+    "polling_station_name": "МЕСНА КАНЦЕЛАРИЈА",
+    "polling_station_address": "Пониковица, Ужичка 112",
+    "mapping_note": "Обухвата Пониковицу, Каменицу и Бјелотиће; груписано под Луново Село",
+    "unique_id": "UZ-27",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 28,
+    "voting_area": "Горјани",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА",
+    "polling_station_address": "Горјани, Доситеја Обрадовића 8",
+    "mapping_note": null,
+    "unique_id": "UZ-28",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 29,
+    "voting_area": "Злакуса",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Злакуса, Милутина Чолића 202",
+    "mapping_note": null,
+    "unique_id": "UZ-29",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 30,
+    "voting_area": "Крвавци",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА",
+    "polling_station_address": "Крвавци, Војислава Јовановића 3",
+    "mapping_note": null,
+    "unique_id": "UZ-30",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 31,
+    "voting_area": "Потпеће",
+    "polling_station_name": "ДРУШТВЕНИ ДОМ",
+    "polling_station_address": "Потпеће, Светосавска 72Б",
+    "mapping_note": null,
+    "unique_id": "UZ-31",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 32,
+    "voting_area": "Дрежник",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Дрежник, Брдо 9",
+    "mapping_note": null,
+    "unique_id": "UZ-32",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 33,
+    "voting_area": "Скржути",
+    "polling_station_name": "ДРУШТВЕНИ ДОМ – МАЛА САЛА",
+    "polling_station_address": "Скржути, Проте Милана Смиљанића 34",
+    "mapping_note": null,
+    "unique_id": "UZ-33",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 34,
+    "voting_area": "Никојевићи",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Никојевићи, Ледине 1",
+    "mapping_note": null,
+    "unique_id": "UZ-34",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 35,
+    "voting_area": "Равни",
+    "polling_station_name": "ДРУШТВЕНИ ДОМ – ВЕЛИКА САЛА",
+    "polling_station_address": "Равни, Проте Милана Смиљанића 34",
+    "mapping_note": null,
+    "unique_id": "UZ-35",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 36,
+    "voting_area": "Љубање",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА",
+    "polling_station_address": "Љубање, Иве Андрића 1",
+    "mapping_note": null,
+    "unique_id": "UZ-36",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 37,
+    "voting_area": "Љубање",
+    "polling_station_name": "КУЋА СВЕТОЗАРА ПРЉЕВИЋА",
+    "polling_station_address": "Љубање, Краља Петра I 89",
+    "mapping_note": null,
+    "unique_id": "UZ-37",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 38,
+    "voting_area": "Збојштица",
+    "polling_station_name": "КУЋА МИЛИСАВА ЈОЛИЋА",
+    "polling_station_address": "Збојштица, Краљевска 54",
+    "mapping_note": null,
+    "unique_id": "UZ-38",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 39,
+    "voting_area": "Качер",
+    "polling_station_name": "ДРУШТВЕНИ ДОМ",
+    "polling_station_address": "Качер, Сремчица 4",
+    "mapping_note": null,
+    "unique_id": "UZ-39",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 40,
+    "voting_area": "Качер",
+    "polling_station_name": "ОБЈЕКАТ НЕДЕЉКА ТЕРЗИЋА",
+    "polling_station_address": "Качер, Милоша Обреновића 5",
+    "mapping_note": "Назив и адреса исправљени накнадном одлуком",
+    "unique_id": "UZ-40",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/10/Odluka-o-izmeni-Odluke-o-BM.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 41,
+    "voting_area": "Бела Земља",
+    "polling_station_name": "МЕСНА ЗАЈЕДНИЦА",
+    "polling_station_address": "Бела Земља, Војводе Путника 4",
+    "mapping_note": null,
+    "unique_id": "UZ-41",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 42,
+    "voting_area": "Турица",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Ужице, Ђачка 1",
+    "mapping_note": null,
+    "unique_id": "UZ-42",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 43,
+    "voting_area": "Турица",
+    "polling_station_name": "ОСНОВНА ШКОЛА",
+    "polling_station_address": "Ужице, Ђачка 1",
+    "mapping_note": null,
+    "unique_id": "UZ-43",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 44,
+    "voting_area": "Теразије",
+    "polling_station_name": "ОБЈЕКАТ ЈКП „ВОДОВОД“",
+    "polling_station_address": "Ужице, Радничког батаљона 48",
+    "mapping_note": null,
+    "unique_id": "UZ-44",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 45,
+    "voting_area": "Теразије",
+    "polling_station_name": "ДОМ УЧЕНИКА",
+    "polling_station_address": "Ужице, Ужичке републике 116",
+    "mapping_note": null,
+    "unique_id": "UZ-45",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 46,
+    "voting_area": "Теразије",
+    "polling_station_name": "ДОМ ПЕНЗИОНЕРА",
+    "polling_station_address": "Ужице, Ужичке републике 5",
+    "mapping_note": null,
+    "unique_id": "UZ-46",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 47,
+    "voting_area": "Теразије",
+    "polling_station_name": "ОШ „СТАРИ ГРАД“",
+    "polling_station_address": "Ужице, Градска 1",
+    "mapping_note": null,
+    "unique_id": "UZ-47",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 48,
+    "voting_area": "Теразије",
+    "polling_station_name": "САЛА МЕСНЕ ЗАЈЕДНИЦЕ",
+    "polling_station_address": "Ужице, Вука Караџића 3",
+    "mapping_note": null,
+    "unique_id": "UZ-48",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 49,
+    "voting_area": "Теразије",
+    "polling_station_name": "ОШ „СТАРИ ГРАД“",
+    "polling_station_address": "Ужице, Градска 1",
+    "mapping_note": null,
+    "unique_id": "UZ-49",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 50,
+    "voting_area": "Теразије",
+    "polling_station_name": "ОШ „СТАРИ ГРАД“",
+    "polling_station_address": "Ужице, Градска 1",
+    "mapping_note": null,
+    "unique_id": "UZ-50",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 51,
+    "voting_area": "Росуље",
+    "polling_station_name": "ЈП „СТАН“",
+    "polling_station_address": "Ужице, Марије Маге Магазиновић 7",
+    "mapping_note": null,
+    "unique_id": "UZ-51",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 52,
+    "voting_area": "Росуље",
+    "polling_station_name": "МЗ „РОСУЉЕ“",
+    "polling_station_address": "Ужице, Друге пролетерске 3",
+    "mapping_note": null,
+    "unique_id": "UZ-52",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 53,
+    "voting_area": "Росуље",
+    "polling_station_name": "ВРТИЋ НА ПОРИ",
+    "polling_station_address": "Ужице, Хајдук Вељкова 1",
+    "mapping_note": "Објекат је на Пори, али у одлуци је бирачко подручје Росуље",
+    "unique_id": "UZ-53",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 54,
+    "voting_area": "Росуље",
+    "polling_station_name": "ПОШТА",
+    "polling_station_address": "Ужице, Пора 2",
+    "mapping_note": "Објекат је на Пори, али у одлуци је бирачко подручје Росуље",
+    "unique_id": "UZ-54",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 55,
+    "voting_area": "Росуље",
+    "polling_station_name": "НАРОДНО ПОЗОРИШТЕ – СЛУЖБЕНИ УЛАЗ",
+    "polling_station_address": "Ужице, Марије Маге Магазиновић 2",
+    "mapping_note": null,
+    "unique_id": "UZ-55",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 56,
+    "voting_area": "Росуље",
+    "polling_station_name": "ПРВА ОСНОВНА ШКОЛА КРАЉА ПЕТРА II",
+    "polling_station_address": "Ужице, Димитрија Туцовића 171",
+    "mapping_note": null,
+    "unique_id": "UZ-56",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 57,
+    "voting_area": "Росуље",
+    "polling_station_name": "ПРВА ОСНОВНА ШКОЛА КРАЉА ПЕТРА II",
+    "polling_station_address": "Ужице, Димитрија Туцовића 171",
+    "mapping_note": null,
+    "unique_id": "UZ-57",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 58,
+    "voting_area": "Центар",
+    "polling_station_name": "ЈКП „ВОДОВОД“",
+    "polling_station_address": "Ужице, Хероја Луна 2",
+    "mapping_note": null,
+    "unique_id": "UZ-58",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 59,
+    "voting_area": "Центар",
+    "polling_station_name": "МЗ „ЦЕНТАР“",
+    "polling_station_address": "Ужице, Димитрија Туцовића 97",
+    "mapping_note": null,
+    "unique_id": "UZ-59",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 60,
+    "voting_area": "Центар",
+    "polling_station_name": "НАРОДНА БИБЛИОТЕКА",
+    "polling_station_address": "Ужице, Трг партизана 12",
+    "mapping_note": null,
+    "unique_id": "UZ-60",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 61,
+    "voting_area": "Центар",
+    "polling_station_name": "ОШ „НАДА МАТИЋ“",
+    "polling_station_address": "Ужице, Хаџи Мелентијева 22",
+    "mapping_note": null,
+    "unique_id": "UZ-61",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 62,
+    "voting_area": "Центар",
+    "polling_station_name": "ОШ „НАДА МАТИЋ“",
+    "polling_station_address": "Ужице, Хаџи Мелентијева 22",
+    "mapping_note": null,
+    "unique_id": "UZ-62",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 63,
+    "voting_area": "Центар",
+    "polling_station_name": "ЦЕНТАР ЗА СОЦИЈАЛНИ РАД",
+    "polling_station_address": "Ужице, Видовданска 32А",
+    "mapping_note": null,
+    "unique_id": "UZ-63",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 64,
+    "voting_area": "Центар",
+    "polling_station_name": "ШКОЛСКА УПРАВА УЖИЦЕ",
+    "polling_station_address": "Ужице, Видовданска 34",
+    "mapping_note": null,
+    "unique_id": "UZ-64",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 65,
+    "voting_area": "Царина",
+    "polling_station_name": "МЕДИЦИНСКА ШКОЛА",
+    "polling_station_address": "Ужице, Немањина 148",
+    "mapping_note": null,
+    "unique_id": "UZ-65",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 66,
+    "voting_area": "Царина",
+    "polling_station_name": "МЕДИЦИНСКА ШКОЛА",
+    "polling_station_address": "Ужице, Немањина 148",
+    "mapping_note": null,
+    "unique_id": "UZ-66",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 67,
+    "voting_area": "Царина",
+    "polling_station_name": "ПОСЛОВНИ ПРОСТОР НАТАШЕ ПАНИЋ",
+    "polling_station_address": "Ужице, Николе Тесле 65",
+    "mapping_note": null,
+    "unique_id": "UZ-67",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 68,
+    "voting_area": "Царина",
+    "polling_station_name": "ДОМ УЧЕНИКА СРЕДЊИХ ШКОЛА – II УЛАЗ",
+    "polling_station_address": "Ужице, Немањина 52",
+    "mapping_note": null,
+    "unique_id": "UZ-68",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 69,
+    "voting_area": "Царина",
+    "polling_station_name": "МЗ „ЦАРИНА“",
+    "polling_station_address": "Ужице, Ратарска 69",
+    "mapping_note": null,
+    "unique_id": "UZ-69",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 70,
+    "voting_area": "Царина",
+    "polling_station_name": "ДОМ УЧЕНИКА СРЕДЊИХ ШКОЛА",
+    "polling_station_address": "Ужице, Немањина 52",
+    "mapping_note": null,
+    "unique_id": "UZ-70",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 71,
+    "voting_area": "Липа",
+    "polling_station_name": "ГРАДСКИ КУЛТУРНИ ЦЕНТАР",
+    "polling_station_address": "Ужице, Трг Светог Саве 11",
+    "mapping_note": null,
+    "unique_id": "UZ-71",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 72,
+    "voting_area": "Липа",
+    "polling_station_name": "ОШ „ДУШАН ЈЕРКОВИЋ“",
+    "polling_station_address": "Ужице, Трг Светог Саве 22",
+    "mapping_note": null,
+    "unique_id": "UZ-72",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 73,
+    "voting_area": "Липа",
+    "polling_station_name": "СШ „РАДОЈЕ ЉУБИЧИЋ“",
+    "polling_station_address": "Ужице, Николе Пашића 17",
+    "mapping_note": null,
+    "unique_id": "UZ-73",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 74,
+    "voting_area": "Липа",
+    "polling_station_name": "ФИЛИЈАЛА ПИО",
+    "polling_station_address": "Ужице, Омладинска 22",
+    "mapping_note": null,
+    "unique_id": "UZ-74",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 75,
+    "voting_area": "Липа",
+    "polling_station_name": "ОШ „ДУШАН ЈЕРКОВИЋ“ – II УЛАЗ",
+    "polling_station_address": "Ужице, Трг Светог Саве 22",
+    "mapping_note": null,
+    "unique_id": "UZ-75",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 76,
+    "voting_area": "Крчагово",
+    "polling_station_name": "МЗ „КРЧАГОВО“",
+    "polling_station_address": "Ужице, Норвешких интернираца 14",
+    "mapping_note": null,
+    "unique_id": "UZ-76",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 77,
+    "voting_area": "Крчагово",
+    "polling_station_name": "ОШ „МИОДРАГ В. МАТИЋ“",
+    "polling_station_address": "Ужице, Драгише Лапчевића 1",
+    "mapping_note": null,
+    "unique_id": "UZ-77",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 78,
+    "voting_area": "Крчагово",
+    "polling_station_name": "МАЛА СПОРТСКА ХАЛА КРЧАГОВО",
+    "polling_station_address": "Ужице, Милоша Обреновића 2",
+    "mapping_note": null,
+    "unique_id": "UZ-78",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 79,
+    "voting_area": "Крчагово",
+    "polling_station_name": "ОШ „СЛОБОДАН СЕКУЛИЋ“",
+    "polling_station_address": "Ужице, Норвешких интернираца 18",
+    "mapping_note": null,
+    "unique_id": "UZ-79",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 80,
+    "voting_area": "Крчагово",
+    "polling_station_name": "ОБЈЕКАТ СЛАВКА ГЛИШИЋА",
+    "polling_station_address": "Ужице, Мендино брдо 10Б",
+    "mapping_note": null,
+    "unique_id": "UZ-80",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 81,
+    "voting_area": "Крчагово",
+    "polling_station_name": "ОШ „МИОДРАГ В. МАТИЋ“",
+    "polling_station_address": "Ужице, Драгише Лапчевића 1",
+    "mapping_note": null,
+    "unique_id": "UZ-81",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 82,
+    "voting_area": "Крчагово",
+    "polling_station_name": "ОБЈЕКАТ ПРЕДРАГА ПЕТРОВИЋА",
+    "polling_station_address": "Ужице, Милоша Обреновића 37",
+    "mapping_note": null,
+    "unique_id": "UZ-82",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 83,
+    "voting_area": "Крчагово",
+    "polling_station_name": "ОБЈЕКАТ МЛАДЕНА ВИТОРОВИЋА",
+    "polling_station_address": "Ужице, Врела 40",
+    "mapping_note": null,
+    "unique_id": "UZ-83",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Ужице",
+    "polling_station_no": 84,
+    "voting_area": "Крчагово",
+    "polling_station_name": "ДИЈАМАНТ-ВИДИЋ ДОО",
+    "polling_station_address": "Ужице, Ада 2",
+    "mapping_note": null,
+    "unique_id": "UZ-84",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Севојно",
+    "polling_station_no": 1,
+    "voting_area": "Севојно",
+    "polling_station_name": "ГРАДСКА ОПШТИНА СЕВОЈНО",
+    "polling_station_address": "Севојно, Миливоја Марића 40",
+    "mapping_note": null,
+    "unique_id": "SE-01",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Севојно",
+    "polling_station_no": 2,
+    "voting_area": "Севојно",
+    "polling_station_name": "СОЛИТЕР „Б“ 54",
+    "polling_station_address": "Севојно, Вишеслава Бугариновића 24",
+    "mapping_note": null,
+    "unique_id": "SE-02",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Севојно",
+    "polling_station_no": 3,
+    "voting_area": "Севојно",
+    "polling_station_name": "ОШ „АЛЕКСА ДЕЈОВИЋ“",
+    "polling_station_address": "Севојно, Хероја Дејовића 2",
+    "mapping_note": null,
+    "unique_id": "SE-03",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Севојно",
+    "polling_station_no": 4,
+    "voting_area": "Севојно",
+    "polling_station_name": "СТАРА ШКОЛА",
+    "polling_station_address": "Севојно, Хероја Дејовића 9",
+    "mapping_note": null,
+    "unique_id": "SE-04",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  },
+  {
+    "municipality": "Севојно",
+    "polling_station_no": 5,
+    "voting_area": "Севојно",
+    "polling_station_name": "БИВШИ МОТЕЛ ПОРЕД ВАТРОГАСНОГ ДОМА",
+    "polling_station_address": "Севојно, Првомајска бб",
+    "mapping_note": null,
+    "unique_id": "SE-05",
+    "source_url": "https://uzice.rs/wp-content/uploads/2026/09/Odluka-o-odredjivanju-BM-na-teritoriji-grada-Uzica-za-glasanje-na-izborima-za-narodne-poslanike-25.10.2026.godine.pdf"
+  }
+]
